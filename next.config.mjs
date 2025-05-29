@@ -10,8 +10,8 @@ const nextConfig = {
     unoptimized: true,
   },
   output: "export",
-  basePath: "/civicoin-landing",
-  assetPrefix: "/civicoin-landing/",
-}
+  // basePath: "/civicoin-landing",
+  // assetPrefix: "/civicoin-landing/",
+};
 
 export default nextConfig;
